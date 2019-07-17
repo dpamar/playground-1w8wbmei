@@ -1,4 +1,4 @@
-title: Custom Template
+title: BrainFuck : working with arrays
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
@@ -10,4 +10,8 @@ plan:
   statement: markdowns/length.md
 - title: Reverse() function
   statement: markdowns/revert.md
+- title: Get array item
+  statement: markdowns/get.md
+- title: Handle null values
+  statement: markdowns/null.md
 
