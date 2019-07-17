@@ -2,3 +2,12 @@ title: Custom Template
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+- title: Move within the array
+  statement: markdowns/move.md
+- title: Switch array in memory
+  statement: markdowns/switch.md
+- title: Get array length
+  statement: markdowns/length.md
+- title: Reverse() function
+  statement: markdowns/revert.md
+
