@@ -28,7 +28,7 @@ To append on the left, we should start on the rightmost cell and move it to the 
 ]          loop
 ```
 
-Minified version
+# Minified version
 ```
 <[[->+<]<]
 ```

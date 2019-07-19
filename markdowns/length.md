@@ -34,7 +34,7 @@ We need to count items in an array and store the result after the array itself. 
 
 ```
 
-Minified version
+# Minified version
 ```
 <[[->+<]>[>]>+<<[<]<]
 ```

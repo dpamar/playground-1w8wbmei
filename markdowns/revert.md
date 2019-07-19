@@ -48,7 +48,7 @@ The principle is: our memory looks like 0, Array, 0, 0
 ]>                loop, and go back to left delimiter of revert(Array)
 ```
 
-Minified version
+# Minified version
 ```
 [[->>[>]>+<<[<]<]>>[>]>[-<+>]<[<]>[[-<+>]>]<<[<]<]>
 ```

@@ -25,7 +25,7 @@ We know that our cells are not null, and thanks to this we can use the magic ope
 ]     loop
 ```
 
-Minified version
+# Minified version
 ```
 >[>]
 ```

@@ -64,7 +64,7 @@ Instead, we will use moves, shifts, etc... to get item #i from an array. The pro
 >[>]>                           go to the result value
 ```
 
-Minified version
+# Minified version
 ```
 [<<[<]>[-<+>]>[>]>-]<<[<]>[-<+>]<[->>[>]>+>+<<<[<]<]>>[>]>>[-<<<[<]<+>>[>]>>]<<<[<]<[[->+<]<]>>[>]>
 ```
